@@ -1,0 +1,1 @@
+# Semana_7_Algoritmo_Genetico_Simple-
